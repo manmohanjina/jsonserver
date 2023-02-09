@@ -1,9 +1,39 @@
 {
-    "task":[
-        {
-            "name":"mansih",
-            "age":27,
-            "height":183
-        }
+    "books": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false,
+        "id": 1,
+        "name": "a",
+        "price": "a"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/3358707/pexels-photo-3358707.png?auto=compress&cs=tinysrgb&w=600",
+        "name": "manish singh",
+        "author": "sdf",
+        "genre": "science",
+        "edition": "2020",
+        "publisher": "sd",
+        "price": "123",
+        "borowed": false,
+        "id": 3
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/3358707/pexels-photo-3358707.png?auto=compress&cs=tinysrgb&w=600",
+        "name": "honey singh",
+        "author": "manish",
+        "genre": "history",
+        "edition": "2021",
+        "publisher": "antony",
+        "price": "100",
+        "borowed": false,
+        "id": 4
+      }
     ]
-}
+  }
