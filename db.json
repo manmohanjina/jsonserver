@@ -1,5 +1,5 @@
 {
-  "users": [
+  "users123": [
     {
       "Username": "",
       "Avtar": "",
@@ -19,6 +19,56 @@
       "date" : "2017-06-01",
       "likes" : 24,
       "comments" : [{"username" : "Jane", "content" : "Good One"}, {"username" : "Bob", "content" : "Loved It!"}]
+    }
+  ],
+  "users": [
+    {
+      "name": "jarvis",
+      "email": "jarvis@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+   
+    {
+      "username": "prateek",
+      "email": "parteek@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "shubham",
+      "email": "shubham@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "moto",
+      "email": "moto@gmail.com",
+      "password": "213",
+      "id": 5
+    }
+   
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+      "company_name": "HDFC Bank",
+      "company_type": "Bank",
+      "stock_exchange": "NSE",
+      "total_shares": 50000,
+      "cost_per_share": 4210,
+      "price_action": 12
+    },
+    {
+      "id": 2,
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4
     }
   ]
 }
